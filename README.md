@@ -1,1 +1,1 @@
-# Haamin
+# Haamin theme adn plugin
